@@ -104,5 +104,7 @@ CMD ["npm", "run", "dev"]
 
 Este archivo README proporciona toda la documentación necesaria para implementar, ejecutar y desplegar la aplicación frontend en un contenedor Docker.
 
+VIDEO EXPLICATIVO: https://youtu.be/8fqDspqXHls
+
 # DigPatho
 # DigPatho
